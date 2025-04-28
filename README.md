@@ -8,6 +8,7 @@
 <img src="https://media1.tenor.com/m/VVIZNQLHBsAAAAAd/halah-nyocot.gif" width="200px" align="right" alt="b">
 <img src="https://media1.tenor.com/m/klsinHbkFccAAAAd/terkadang-meme-indo.gif" width="200px" align="right" alt="b">  
 <img src="https://media1.tenor.com/m/GxpwweBc4G4AAAAd/rusdi-cukur.gif" width="200px" align="right" alt="b">  
+<img src="https://media1.tenor.com/m/M0_1Q263wiwAAAAd/laughing-cat.gif" width="200px" align="right" alt="b">  
 </span>
 
 ## 🚀 About Me
