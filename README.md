@@ -1,24 +1,17 @@
-# Hi there 👋 Welcome to my GitHub!
+# 👋 Hey there! I'm Wahyu Atmaja
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right" alt="coding-gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" alt="Coding guy gif">
 
 ## 🚀 About Me
-- 🌱 I'm a **Mobile Developer** using **Flutter**.
-- 🖥️ I also develop **Desktop Applications** using **Delphi** and **Java**.
-- 🤖 Currently diving deeper into the world of **Artificial Intelligence**.
-- ✨ Always learning and exploring new technologies!
+- 📱 Mobile Developer (Flutter enthusiast!)
+- 💻 Desktop App Developer (Delphi & Java enjoyer!)
+- 🧠 Currently playing around with AI and Machine Learning.
+- 🌎 Just a tech explorer who loves building cool stuff.
 
-## 🛠️ Tech Stack
-- **Languages**: Dart, Java, Object Pascal (Delphi), Python (for AI)
-- **Frameworks**: Flutter, VCL/FireMonkey (Delphi), Spring Boot
-- **Tools**: Git, VS Code, Android Studio, Delphi IDE, IntelliJ IDEA
-
-## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-
----
-
-⭐️ Feel free to check out my repositories and projects!
+## 🛠️ My Tech Stack
+```bash
+Languages: Dart, Java, Object Pascal, Python
+Frameworks: Flutter, VCL/FireMonkey, Spring Boot
+Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
