@@ -1,0 +1,24 @@
+name: Generate Snake Game 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: wahyuatmaja3
+          outputs: |
+            ./dist/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generate contribution snake"
+          add: "./dist/github-contribution-grid-snake.svg"
