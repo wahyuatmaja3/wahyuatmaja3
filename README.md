@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
-<img src="https://media.tenor.com/W36feXYrHgYAAAA1/pembohonk-publik-pembohonk.webp" width="350px" align="right" alt="Coding guy gif">
+<img src="https://media1.tenor.com/m/bi-1TiUoAZgAAAAd/diam-hitam.gif" width="200px" align="right" alt="Hytam">
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
