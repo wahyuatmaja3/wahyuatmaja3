@@ -3,6 +3,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" alt="Coding guy gif">
+![Diam Hitam GIF](https://media.tenor.com/images/7939764015312929176.gif)
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
