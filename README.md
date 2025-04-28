@@ -28,7 +28,8 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 [![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### 🐍 Watch my GitHub Contribution Snake
-![snake gif](https://raw.githubusercontent.com/wahyuatmaja3/wahyuatmaja3/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wahyuatmaja3/wahyuatmaja3/raw/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 How to reach me
 - 📧 Email: your.email@example.com
