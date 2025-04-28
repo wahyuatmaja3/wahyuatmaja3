@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Wahyu Atmaja
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
+## 🌎 Visitor's Map
+[![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" alt="Coding guy gif">
 
