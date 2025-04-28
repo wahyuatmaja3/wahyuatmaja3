@@ -7,8 +7,8 @@
 <img src="https://media.tenor.com/W36feXYrHgYAAAA1/pembohonk-publik-pembohonk.webp" width="100px" align="right" alt="b">
 <img src="https://media1.tenor.com/m/VVIZNQLHBsAAAAAd/halah-nyocot.gif" width="100px" align="right" alt="b">
 <img src="https://media1.tenor.com/m/M0_1Q263wiwAAAAd/laughing-cat.gif" width="100px" align="right" alt="b">
+<img src="https://media.tenor.com/d3omTouvhfoAAAAj/rehan-rehan-wangsaff.gif" width="100px" align="right" alt="b">    
 <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" align="right" alt="b">  
-<img src="https://media1.tenor.com/m/ZBtJFtWJeFYAAAAd/ga-logis-ambatukam.gif" width="100px" align="right" alt="b">  
 </span>
 
 ## 🚀 About Me
