@@ -2,7 +2,6 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" alt="Coding guy gif">
 <img src="https://media1.tenor.com/m/bi-1TiUoAZgAAAAd/diam-hitam.gif" width="350px" align="right" alt="Coding guy gif">
 
 ## 🚀 About Me
