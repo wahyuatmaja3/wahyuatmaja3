@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
-<img src="https://media.tenor.com/l6AvW4d6cAUAAAAM/ngawi.gif" width="350px" align="right" alt="Hytam">
+<img src="https://media.tenor.com/l6AvW4d6cAUAAAAM/ngawi.gif" width="1000px" align="right" alt="Hytam">
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
