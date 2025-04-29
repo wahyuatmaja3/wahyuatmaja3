@@ -14,14 +14,13 @@
   <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">  
 </span>
 
-<div style="
-  width: 100%;
-  height: 200px;
-  background-image: url('https://i.gifer.com/5ZLO.gif');
-  background-repeat: repeat-x;
-  background-size: auto 100%;
-">
-</div>
+<p align="left">
+  <img src="https://i.gifer.com/5ZLO.gif" width="100">
+  <img src="https://i.gifer.com/5ZLO.gif" width="100">
+  <img src="https://i.gifer.com/5ZLO.gif" width="100">
+  <img src="https://i.gifer.com/5ZLO.gif" width="100">
+  <img src="https://i.gifer.com/5ZLO.gif" width="100">
+</p>
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
@@ -46,12 +45,8 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 ### 🌎 Visitor's Map
 [![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-### 🐍 Watch my GitHub Contribution Snake
-![snake gif](https://github.com/wahyuatmaja3/wahyuatmaja3/raw/output/github-contribution-grid-snake.svg)
-
-
 ## 📫 How to reach me
-- 📧 Email: your.email@example.com
+- 📧 Email: wahyusou@gmail.com
 - 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
 
 ---
