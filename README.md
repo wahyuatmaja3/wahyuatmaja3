@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Wahyu Atmaja
+# 👾Wahyu Tri Atmaja
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
@@ -13,6 +13,8 @@
   <img src="https://vegas.nyc3.cdn.digitaloceanspaces.com/0062_y_an_webp-m/sticker-fan_14280529_m.webp" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">    
   <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">  
 </span>
+
+<img src="https://i.gifer.com/Vp3L.gif" alt="b" style="display: inline-block; margin-right: 10px;">  
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
