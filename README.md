@@ -13,14 +13,15 @@
   <img src="https://vegas.nyc3.cdn.digitaloceanspaces.com/0062_y_an_webp-m/sticker-fan_14280529_m.webp" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">    
   <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">  
 </span>
-<div style="
+
+<span style="
   width: 100%;
   height: 200px; /* Ubah tinggi sesuai kebutuhan */
   background-image: url('https://i.gifer.com/5ZLO.gif');
   background-repeat: repeat-x;
   background-size: auto 100%;
 ">
-</div>
+</span>
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
