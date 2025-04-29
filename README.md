@@ -14,7 +14,7 @@
   <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">  
 </span>
 
-<img src="https://i.gifer.com/Vp3L.gif" alt="b" style="display: block; width: 100%; height: auto;">
+<img src="https://i.gifer.com/5ZLO.gif" alt="b" style="display: block; width: 100%; height: auto;">
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
