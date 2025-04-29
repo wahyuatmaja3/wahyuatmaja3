@@ -14,15 +14,6 @@
   <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">  
 </span>
 
-<div style="
-  width: 500px;
-  height: 200px; /* Ubah tinggi sesuai kebutuhan */
-  background-image: url('https://i.gifer.com/5ZLO.gif');
-  background-repeat: repeat-x;
-  background-size: auto 100%;
-">
-</div>
-
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
 - 💻 Desktop App Developer (Delphi & Java enjoyer!)
