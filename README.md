@@ -15,7 +15,7 @@
 </span>
 
 <div style="
-  width: 100vw;
+  width: 500px;
   height: 200px; /* Ubah tinggi sesuai kebutuhan */
   background-image: url('https://i.gifer.com/5ZLO.gif');
   background-repeat: repeat-x;
