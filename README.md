@@ -13,8 +13,10 @@
   <img src="https://vegas.nyc3.cdn.digitaloceanspaces.com/0062_y_an_webp-m/sticker-fan_14280529_m.webp" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">    
   <img src="https://media.tenor.com/6NmJ_aDfghwAAAAM/waduh-kumala.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">  
 </span>
-
+<span>
 <img src="https://i.gifer.com/5ZLO.gif" alt="b" style="display: block; width: 100%; height: auto;">
+<img src="https://i.gifer.com/5ZLO.gif" alt="b" style="display: block; width: 100%; height: auto;">
+</span>
 
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
