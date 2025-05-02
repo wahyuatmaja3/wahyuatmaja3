@@ -19,7 +19,7 @@
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
-  <img src="https://i.gifer.com/5ZLO.gif" width="100">
+  <img src="https://i.gifer.com/1j6F.gif" width="100">
 </p>
 
 ## 🚀 About Me
