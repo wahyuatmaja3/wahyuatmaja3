@@ -22,12 +22,6 @@
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
 </p>
 
-## 📡 CCTV Publik – Jakarta
-
-[![Live CCTV](https://img.shields.io/badge/Live--CCTV-Jakarta-red?logo=live)](https://streaming-cct.co.id/LiveApp/play.html?name=364231033851578471527863)
-
-> 🎥 Klik badge di atas untuk melihat live stream.
-
 ## 🚀 About Me
 - 📱 Mobile Developer (Flutter enthusiast!)
 - 💻 Desktop App Developer (Delphi & Java enjoyer!)
