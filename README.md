@@ -2,6 +2,10 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
+<div style="position: absolute">
+  <img src="https://i.gifer.com/1j6F.gif" width="100%">
+</div>
+
 <span style="text-align: left;">
   <img src="https://media1.tenor.com/m/bi-1TiUoAZgAAAAd/diam-hitam.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">
   <img src="https://media1.tenor.com/m/VVIZNQLHBsAAAAAd/halah-nyocot.gif" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">
@@ -19,7 +23,6 @@
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
   <img src="https://i.gifer.com/5ZLO.gif" width="100">
-  <img src="https://i.gifer.com/1j6F.gif" width="100">
 </p>
 
 ## 🚀 About Me
