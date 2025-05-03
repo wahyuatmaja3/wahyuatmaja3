@@ -2,8 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
-- [x] Tugas selesai
-- [ ] Tugas belum selesai
+![wahyuatmaja3's Stats](https://github-readme-stats.vercel.app/api?username=wahyuatmaja3&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
 <div style="position: absolute">
   <img src="https://i.gifer.com/1j6F.gif" width="100%">
