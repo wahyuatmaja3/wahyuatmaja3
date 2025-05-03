@@ -2,6 +2,9 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
 
+- [x] Tugas selesai
+- [ ] Tugas belum selesai
+
 <div style="position: absolute">
   <img src="https://i.gifer.com/1j6F.gif" width="100%">
 </div>
