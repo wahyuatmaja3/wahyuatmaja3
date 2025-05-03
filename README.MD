@@ -25,9 +25,6 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 ### ⚡ Activity
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuatmaja3&theme=high-contrast"/>
 
-### 🌎 Visitor's Map
-[![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 ## 📫 How to reach me
 - 📧 Email: wahyusou@gmail.com
 - 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
