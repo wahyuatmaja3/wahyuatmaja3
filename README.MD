@@ -31,22 +31,16 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyuatmaja3/wahyuatmaja3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyuatmaja3/wahyuatmaja3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wahyuatmaja3/wahyuatmaja3/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<a href="https://github.com/wahyuatmaja3">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahyuatmaja3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahyuatmaja3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wahyuatmaja3&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/wahyuatmaja3/wahyuatmaja3/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuatmaja3&theme=high-contrast"/>
 
 ✨ Stay curious, keep coding, and have fun!
