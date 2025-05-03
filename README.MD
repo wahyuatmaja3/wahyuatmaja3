@@ -33,4 +33,4 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 
 ✨ Stay curious, keep coding, and have fun!
 
-<img src="https://staticg.sportskeeda.com/editor/2024/07/ff9c1-17207913187908.gif?w=1200" width="100px" height="100px" alt="b" style="display: inline-block; margin-right: 10px;">
+<img src="https://staticg.sportskeeda.com/editor/2024/07/ff9c1-17207913187908.gif?w=1200" alt="b" style="display: inline-block;">
