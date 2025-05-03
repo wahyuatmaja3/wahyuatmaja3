@@ -20,7 +20,7 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 ![wahyuatmaja3's Stats](https://github-readme-stats.vercel.app/api?username=wahyuatmaja3&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
 ### 📚 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuatmaja3&layout=compact&theme=radical)
+![wahyuatmaja3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuatmaja3&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🌎 Visitor's Map
 [![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
