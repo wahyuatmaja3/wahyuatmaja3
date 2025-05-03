@@ -1,0 +1,33 @@
+# 👾Wahyu Tri Atmaja
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
+
+## 🚀 About Me
+- 📱 Mobile Developer (Flutter enthusiast!)
+- 💻 Desktop App Developer (Delphi & Java enjoyer!)
+- 🧠 Currently playing around with AI and Machine Learning.
+- 🌎 Just a tech explorer who loves building cool stuff.
+
+## 🛠️ My Tech Stack
+```bash
+Languages: Dart, Java, Object Pascal, Python
+Frameworks: Flutter, VCL/FireMonkey, Spring Boot
+Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
+```
+
+## 🔥 Fun Stuff (Don't miss this!)
+### 📈 GitHub Stats
+![wahyuatmaja3's Stats](https://github-readme-stats.vercel.app/api?username=wahyuatmaja3&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+
+### 📚 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuatmaja3&layout=compact&theme=radical)
+
+### 🌎 Visitor's Map
+[![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+## 📫 How to reach me
+- 📧 Email: wahyusou@gmail.com
+- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+
+---
+✨ Stay curious, keep coding, and have fun!
