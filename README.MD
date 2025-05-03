@@ -21,6 +21,7 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 
 ### 📚 Top Languages
 ![wahyuatmaja3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuatmaja3&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
 
 ### 🌎 Visitor's Map
 [![](https://visitcount.itsvg.in/api?id=wahyuatmaja3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -32,14 +33,7 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/wahyuatmaja3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahyuatmaja3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahyuatmaja3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wahyuatmaja3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuatmaja3&theme=high-contrast"/>
 
