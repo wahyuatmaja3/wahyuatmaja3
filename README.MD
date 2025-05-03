@@ -22,7 +22,7 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 ### 📚 Top Languages
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
 
-###⚡Top Languages
+### ⚡ Activity
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuatmaja3&theme=high-contrast"/>
 
 ### 🌎 Visitor's Map
