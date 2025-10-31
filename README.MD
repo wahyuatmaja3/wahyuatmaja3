@@ -10,9 +10,9 @@
 
 ## 🛠️ My Tech Stack
 ```bash
-Languages: Dart, Java, Object Pascal, Python
-Frameworks: Flutter, VCL/FireMonkey, Spring Boot
-Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
+Languages: Dart, Java, Pascal, Python, GO
+Frameworks: Flutter, Delphi 5
+Tools: Git, Android Studio, VSCode, Delphi IDE, NetBeans
 ```
 
 ## 🔥 Fun Stuff (Don't miss this!)
