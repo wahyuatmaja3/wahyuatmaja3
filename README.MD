@@ -27,7 +27,7 @@ Tools: Git, Android Studio, VS Code, Delphi IDE, IntelliJ
 
 ## 📫 How to reach me
 - 📧 Email: wahyusou@gmail.com
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- 💼 LinkedIn: [Wahyu Tri Atmaja](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://id.linkedin.com/in/wahyu-tri-atmaja-642207376&ved=2ahUKEwj_4_Ke3s6QAxUA4zgGHZ9wJJ8QFnoECCEQAQ&usg=AOvVaw1ph1KP996vJk9w9P1fBFk-)
 
 ---
 
