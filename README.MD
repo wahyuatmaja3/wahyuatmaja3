@@ -16,9 +16,6 @@ Tools: Git, Android Studio, VSCode, Delphi IDE, NetBeans
 ```
 
 ## 🔥 Fun Stuff (Don't miss this!)
-### 📈 GitHub Stats
-![wahyuatmaja3's Stats](https://github-readme-stats.vercel.app/api?username=wahyuatmaja3&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
-
 ### 📚 Top Languages
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
 
