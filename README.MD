@@ -30,4 +30,4 @@ Tools: Git, Android Studio, VSCode, Delphi IDE, NetBeans
 
 ✨ Stay curious, keep coding, and have fun!
 
-<img src="https://staticg.sportskeeda.com/editor/2024/07/ff9c1-17207913187908.gif?w=1200" alt="b" style="display: inline-block;">
+<img src="https://i.pinimg.com/originals/c0/dc/55/c0dc553ea681039e47ea218e7df96a3c.gif" alt="b" style="display: inline-block;">
