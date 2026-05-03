@@ -1,7 +1,7 @@
 # 👾 Hi, I'm Wahyu Tri Atmaja
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=30&pause=500&color=5000fc&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Build+Cool+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=30&pause=100&color=5000fc&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Build+Cool+Things" />
 </p>
 
 <p align="center">
