@@ -1,33 +1,75 @@
-# 👾Wahyu Tri Atmaja
+# 👾 Hi, I'm Wahyu Tri Atmaja
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Hey%20Visitor!&color=green&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=30&pause=500&color=5000fc&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Build+Cool+Things" />
+</p>
 
-## 🚀 About Me
-- 📱 Mobile Developer (Flutter enthusiast!)
-- 💻 Desktop App Developer (Delphi & Java enjoyer!)
-- 🧠 Currently playing around with AI and Machine Learning.
-- 🌎 Just a tech explorer who loves building cool stuff.
-
-## 🛠️ My Tech Stack
-```bash
-Languages: Dart, Java, Pascal, Python, GO
-Frameworks: Flutter, Delphi 5
-Tools: Git, Android Studio, VSCode, Delphi IDE, NetBeans
-```
-
-## 🔥 Fun Stuff (Don't miss this!)
-### 📚 Top Languages
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahyuatmaja3&theme=vision_friendly_dark" height="180em" />
-
-### ⚡ Activity
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuatmaja3&theme=high-contrast"/>
-
-## 📫 How to reach me
-- 📧 Email: wahyusou@gmail.com
-- 💼 LinkedIn: [Wahyu Tri Atmaja](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://id.linkedin.com/in/wahyu-tri-atmaja-642207376&ved=2ahUKEwj_4_Ke3s6QAxUA4zgGHZ9wJJ8QFnoECCEQAQ&usg=AOvVaw1ph1KP996vJk9w9P1fBFk-)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Visitors&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-✨ Stay curious, keep coding, and have fun!
+## 🚀 About Me
 
-<img src="https://i.pinimg.com/originals/c0/dc/55/c0dc553ea681039e47ea218e7df96a3c.gif" alt="b" style="display: inline-block;">
+name: Wahyu Tri Atmaja  
+role: Mobile & Desktop Developer  
+focus: Flutter, AI, Automation  
+learning: Advanced mobile architecture & AI integration  
+
+- 📱 Build mobile apps using **Flutter**
+- 💻 Desktop apps with **Delphi & Java**
+- 🤖 Exploring **AI, LLM, and automation tools**
+- ⚡ Love creating useful & scalable things
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+- Dart
+- Java
+- Pascal
+- Python
+- Go
+
+### ⚙️ Tools & Frameworks
+- Flutter
+- Delphi 5
+- Android Studio
+- VS Code
+- NetBeans
+- Git
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuatmaja3&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 What I'm Building
+
+- 🚀 AI-powered tools & automation workflows  
+- 📱 Scalable Flutter applications  
+- 🧩 Developer tools & productivity systems  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: wahyusou@gmail.com
+- 💼 LinkedIn: [Wahyu Tri Atmaja](https://id.linkedin.com/in/wahyu-tri-atmaja-642207376)
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c0/dc/55/c0dc553ea681039e47ea218e7df96a3c.gif" width="100%" />
+</p>
