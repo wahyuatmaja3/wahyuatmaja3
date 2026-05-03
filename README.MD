@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-name: Wahyu Tri Atmaja  
-role: Mobile & Desktop Developer  
-focus: Flutter, AI, Automation  
-learning: Advanced mobile architecture & AI integration  
+**Name**     : Wahyu Tri Atmaja  
+**Role**     : Mobile & Desktop Developer  
+**Focus**    : Flutter, AI, Automation  
+**Learning** : Advanced mobile architecture & AI integration  
 
 - 📱 Build mobile apps using **Flutter**
 - 💻 Desktop apps with **Delphi & Java**
