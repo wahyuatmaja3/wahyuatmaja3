@@ -70,6 +70,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c0/dc/55/c0dc553ea681039e47ea218e7df96a3c.gif" width="100%" />
-</p>
