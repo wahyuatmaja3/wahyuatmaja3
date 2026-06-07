@@ -12,8 +12,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 | Field | Value |
 |--------|--------|
 | **Name** | Wahyu Tri Atmaja |
