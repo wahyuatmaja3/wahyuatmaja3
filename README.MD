@@ -38,10 +38,9 @@
 ### ⚙️ Tools & Frameworks
 - Flutter
 - Delphi 5
-- Android Studio
-- VS Code
-- NetBeans
-- Git
+- Opencode
+- 9Router
+- Hermes Agent
 
 ---
 
