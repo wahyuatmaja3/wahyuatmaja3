@@ -7,12 +7,12 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=26&pause=1000&color=886CE4&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Building+Cool+%26+Scalable+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=26&pause=1000&color=DC2626&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Building+Cool+%26+Scalable+Things" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Profile+Views&color=886ce4&style=flat-square" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Profile+Views&color=DC2626&style=flat-square" alt="Visitors" />
 </p>
 
 ---
@@ -46,11 +46,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuatmaja3&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuatmaja3&theme=blood&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=tokyonight" alt="GitHub Summary Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=aura_dark" alt="GitHub Summary Details" />
 </p>
 
 ---
