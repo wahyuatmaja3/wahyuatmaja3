@@ -1,73 +1,77 @@
 # 👾 Hi, I'm Wahyu Tri Atmaja
 
+<!-- Madara GIF (Tengah) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=30&pause=100&color=886ce4&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Build+Cool+Things" />
+  <img src="https://images.steamusercontent.com/ugc/352770370128713241/ECBF06699A4FA548F6EFA3231F9535F623E43CD9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Madara Uchiha" width="600" />
 </p>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&size=26&pause=1000&color=886CE4&center=true&vCenter=true&width=800&lines=Mobile+Developer;Flutter+Enthusiast;Desktop+Builder;Building+Cool+%26+Scalable+Things" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wahyuatmaja3&label=Profile+Views&color=886ce4&style=flat-square" alt="Visitors" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-| Field | Value |
-|--------|--------|
-| **Name** | Wahyu Tri Atmaja |
-| **Role** | Mobile & Desktop Developer |
-| **Focus** | Flutter, AI, Automation |
-| **Learning** | Advanced mobile architecture & AI integration |
+| Profil | Detail |
+| :--- | :--- |
+| 👤 **Name** | Wahyu Tri Atmaja |
+| 💼 **Role** | Mobile & Desktop Developer |
+| 🎯 **Focus** | Flutter, AI & Workflow Automation |
+| 📚 **Currently Learning** | Advanced Mobile Architecture & AI Integration |
 
-- 📱 Build mobile apps using **Flutter**
-- 💻 Desktop apps with **Delphi & Java**
-- 🤖 Exploring **AI, LLM, and automation tools**
-- ⚡ Love creating useful & scalable things
+- 📱 Building modern cross-platform mobile apps using **Flutter**
+- 💻 Developing desktop applications with **Delphi & Java**
+- 🤖 Actively exploring **AI, LLM integration, and automation tools**
+- ⚡ Passionate about crafting scalable, efficient, and impactful software
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
-- Dart
-- Java
-- Pascal
-- Python
-- Go
+### 💻 Programming Languages
+`Dart` · `Java` · `Pascal / Delphi` · `Python` · `Go`
 
-### ⚙️ Tools & Frameworks
-- Flutter
-- Delphi 5
-- Opencode
-- 9Router
-- Hermes Agent
+### ⚙️ Frameworks & Tools
+`Flutter` · `Delphi 5` · `OpenCode` · `9Router` · `Hermes Agent` · `Git / GitHub`
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuatmaja3&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuatmaja3&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyuatmaja3&theme=tokyonight" alt="GitHub Summary Details" />
 </p>
 
 ---
 
-## 🔥 What I'm Building
+## 🔥 Current Projects & Focus
 
-- 🚀 AI-powered tools & automation workflows  
-- 📱 Scalable Flutter applications  
-- 🧩 Developer tools & productivity systems  
+- 🚀 **AI-powered tools** and automation workflows  
+- 📱 High-performance and scalable **Flutter mobile apps**  
+- 🧩 Developer-centric tooling and productivity systems  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: wahyusou@gmail.com
-- 💼 LinkedIn: [Wahyu Tri Atmaja](https://id.linkedin.com/in/wahyu-tri-atmaja-642207376)
+<p align="left">
+  <a href="mailto:wahyusou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wahyusou%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://id.linkedin.com/in/wahyu-tri-atmaja-642207376" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wahyu%20Tri%20Atmaja-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-
