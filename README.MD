@@ -2,7 +2,7 @@
 
 <!-- Madara GIF (Tengah) -->
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/352770370128713241/ECBF06699A4FA548F6EFA3231F9535F623E43CD9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Madara Uchiha" width="600" />
+  <img src="madara.gif" alt="Madara Uchiha" width="600" />
 </p>
 
 <!-- Typing SVG Animation -->
